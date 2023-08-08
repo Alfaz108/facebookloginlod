@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    }
+    .nab{
+        background:#3E5C9A;
+        overflow: hidden;
+        padding: 14px;
+    }
+    .con{
+        width: 65%;
+        margin: auto;
+    }
+    .logo{
+        width: 30%;
+        float: left;
+    }
+    .login{
+        width: 70%;
+        float: left;
+        color: white;
+    }
+    .login form{
+        float: right;
+    }
+    .logo img{
+        width: 200px;
+    }
+    
+    .password{
+        float: left;
+        margin-left: 10px;
+    }
+    .email{
+        float: left; 
+        margin-left: 10px;
+    }
+    .btn{
+        float: left;
+        margin-top: 23px;
+        margin-left: 10px;
+        color: #3E5C9A;
+    }
+    button{
+        color: white;
+      background: #3E5C9A;
+    }
+    a{
+        color: white;
+        margin-top:px;
+    }
+    .email input{
+        margin-top: 5px;
+    }
+    .password input{
+        margin-top: 5px;
+        margin-bottom: 8px;
+    }
+    .firstbody{
+        margin-top: 5px;
+    }
+    .firstbody img{
+        margin-top: 50px;
+    }
+    .firstbody{
+        float: left;
+    }
+    .firstbody label{
+        color:#3E5C9A;
+        font-weight: bold;
+        font-size: 20px;
+        margin-left: 300px;
+    }
+    .firstbody img{
+        width:500px;
+        margin-left:200px;
+    }
+    .lastbody{
+        margin-left: 800px;
+        margin-top: 50px;
+    
+    }
+    .lastbody h1{
+        font-weight: bold;
+        font-family:Arial, Helvetica, sans-serif
+    }
+    .lastbody p{
+        font-size: 20px;
+        font-weight: bold;
+        font-family:Arial, Helvetica, sans-serif
+    }
+    .firstname{
+        float: left;
+    }
+    .lastbody input{
+        padding: 8px;
+        border-radius: 5px;
+        margin-right:20px;
+    }
+    
+    .mobile input{
+        margin-top: 10px;
+        width: 380px;
+        
+    }
+    .birthday{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .birthday label{
+        font-weight: bold;
+       
+    }
+    
+    .gender{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    
+    .lastbody button{
+        margin-top: 10px;
+        background:linear-gradient(#65ae55,#578843);
+        padding:10px;
+        border-radius: 5px;
+        width: 110px;
+        
+    }
+    
+    span{
+        color: rgb(23, 91, 112);
+    }
+    
+    
+    
+    
+    
+    
+    
